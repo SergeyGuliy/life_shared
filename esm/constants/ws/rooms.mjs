@@ -14,7 +14,7 @@ const rooms_roomInListUpdated = 'rooms_roomInListUpdated'
 const rooms_userJoinRoom = 'rooms_userJoinRoom'
 const rooms_RoomsUpdater = 'rooms_RoomsUpdater'
 
-module.exports = {
+export {
   rooms_userConnectsRoom,
   rooms_subscribeRoomsUpdate,
   rooms_unSubscribeRoomsUpdate,

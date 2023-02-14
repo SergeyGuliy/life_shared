@@ -62,7 +62,7 @@ const SOUNDS = {
 
 const COUNTRIES = ["England", "Russia", "Ukraine", "Hungary", "Italy"];
 
-module.exports = {
+export {
   USER_ROLES,
   ROOM_TYPES,
   MESSAGE_TYPES,

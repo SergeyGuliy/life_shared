@@ -1,7 +1,7 @@
 const chat_messageToServer = 'chat_messageToServer'
 const chat_messageToClient = 'chat_messageToClient'
 
-module.exports = {
+export {
   chat_messageToServer,
   chat_messageToClient,
 }
